@@ -1,4 +1,5 @@
 # MuneemJI
+I am Currently Working on this Project. It will be ready Soon. The whole idea is explained below.
 
 MuneemJi is a Money Transfer application.
 MuneemJi has Features like Sending/Requesting Money, Send transaction status to both participants through Email, Add/Remove Beneficiary, see Transaction History, Admin can see All the users of muneemJI and their Transaction history, Tracking of the users account balance, and Notify them if balance is below 3000.
